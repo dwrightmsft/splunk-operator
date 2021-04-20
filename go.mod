@@ -39,8 +39,8 @@ replace (
 	k8s.io/kubectl => k8s.io/kubectl v0.18.17
 	k8s.io/kubelet => k8s.io/kubelet v0.18.17
 	k8s.io/legacy-cloud-providers => k8s.io/legacy-cloud-providers v0.18.17
-	k8s.io/metrics => k8s.io/metrics v0.18.2
-	k8s.io/sample-apiserver => k8s.io/sample-apiserver v0.18.2
+	k8s.io/metrics => k8s.io/metrics v0.18.17
+	k8s.io/sample-apiserver => k8s.io/sample-apiserver v0.18.17
 )
 
 replace github.com/docker/docker => github.com/moby/moby v0.7.3-0.20190826074503-38ab9da00309 // Required by Helm
